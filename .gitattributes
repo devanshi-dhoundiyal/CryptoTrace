@@ -1,0 +1,2 @@
+dataset/elliptic_txs_features.csv filter=lfs diff=lfs merge=lfs -text
+backend/results/labelled_transactions.csv filter=lfs diff=lfs merge=lfs -text

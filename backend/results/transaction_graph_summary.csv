@@ -1,0 +1,2 @@
+nodes,edges,labelled_nodes,unlabelled_nodes,is_directed,connected_components
+203769,234355,46564,157205,True,49
