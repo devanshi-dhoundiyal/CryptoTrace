@@ -10,7 +10,7 @@ from fastapi.middleware.cors import CORSMiddleware
 # --------------------------------------------------
 
 ROOT = Path(__file__).resolve().parent
-DATASET = ROOT.parent / "elliptic_bitcoin_dataset"
+DATASET = ROOT.parent / "dataset"
 RESULTS = ROOT / "results"
 
 PREDICTIONS_PATH = RESULTS / "xgboost_predictions.csv"
